@@ -8,3 +8,4 @@ This is a repository with my dwm, dmenu, st, slstatus configs.
 4: ttf-hack
 5: st
 6: dmenu
+
