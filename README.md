@@ -11,6 +11,8 @@ Type this in the terminal
 1: libxft
 3: ttf-joypixels
 4: ttf-hack
-5: st
-6: dmenu
+5: terminus-font
+6: ttf-nerd-font-symbols
+7: st
+8: dmenu
 
