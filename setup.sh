@@ -29,6 +29,9 @@ if [[ $choice = "y" ]]; then
     cd $HOME/.config/slstatus/ && sudo make clean install && cd ..
     echo "Slstatus config setup completed"
     sleep 1s
+    echo "Installing Dependencies"
+    sudo pacman install dwm dmenu st libxft ttf-joypixels ttf-hack terminus-font ttf-nerd-font-symbols
+    sleep 1s
     echo "Do you want to reboot? (y/n)"
     read reboot
     if [[ $reboot = "y" ]]; then
