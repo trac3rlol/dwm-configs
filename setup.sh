@@ -5,7 +5,6 @@ echo "Would you like to continue with the setup? (y/n)"
 read choice
 
 if [[ $choice = "y" ]]; then
-    cd $HOME
     echo "Starting Dwm setup..."
     cp -r dwm/ $HOME/.dwm
     cd $HOME/.dwm/ && sudo make clean install && cd ..
