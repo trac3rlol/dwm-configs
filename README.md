@@ -4,7 +4,7 @@ This is a repository with my dwm, dmenu, st, slstatus configs.
 # SETUP
 Type this in the terminal
 ```
-./setup.sh
+sudo ./setup.sh
 ```
 
 # DEPENDENCIES
