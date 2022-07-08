@@ -13,6 +13,5 @@ sudo ./setup.sh
 4: ttf-hack
 5: terminus-font
 6: ttf-nerd-font-symbols
-7: st
-8: dmenu
+7: dmenu
 
