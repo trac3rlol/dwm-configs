@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Scripting
-=======
 #!/bin/bash
 
 echo "DWM SETUP"
@@ -18,4 +15,3 @@ cd slstatus && make clean install && cd ..
 cd slock && make clean install && cd ..
 sleep 2s
 echo "DWM setup finished"
->>>>>>> 5d1c419 (Setup fix)
