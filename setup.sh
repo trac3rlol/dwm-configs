@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "DWM SETUP"
-pacman -S nitrogen picom ttf-font-awesome ttf-hack ttf-nerd-fonts-symbols terminus-font
+pacman -S nitrogen libxft picom ttf-font-awesome ttf-hack ttf-nerd-fonts-symbols terminus-font
 sleep 2s
 mkdir /usr/share/xsessions/
 mv dwm.desktop /usr/share/xsessions/
