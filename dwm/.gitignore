@@ -1,4 +1,5 @@
-drw.o
+*.o
 dwm
-dwm.o
-util.o
+dwm-msg
+config.h
+patches.h
