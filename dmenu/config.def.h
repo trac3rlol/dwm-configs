@@ -48,7 +48,7 @@ static char *fonts[] =
 static const char *fonts[] = 
 #endif // XRESOURCES_PATCH
 {
-	"TerminessTTF Nerd Font:size=12:antialias=true:autohint=true",
+	"FiraCode-Regular:size=10:antialias=true:autohint=true",
 	"JoyPixels:size=10:antialias=true:autohint=true"
 };
 #endif // PANGO_PATCH
